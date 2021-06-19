@@ -16,7 +16,9 @@ app.use(require('body-parser').json())
 app.use(require('express-session')({
 	secret: 'Hello Human!',
 }))
-
+app.get('/', function(req, res) {
+  res.sendFile(path.join(__dirname, '/index.html'));
+});
 const options = {
 	providerOptions: {
 		drive: {

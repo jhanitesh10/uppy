@@ -20,6 +20,6 @@
   },
   "private": true,
   "scripts": {
-    "start:server": "node server.js"
+    "start": "node server.js"
   }
 }
