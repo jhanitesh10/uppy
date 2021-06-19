@@ -15,3 +15,7 @@ GOOGLE_DRIVE_SECRET: "
 
 
 ### example:
+![Alt text](./images/1.png "Dashboard")
+![Alt text](./images/2.png "File select")
+![Alt text](./images/3.png "Upload ")
+![Alt text](./images/4.png "COmplete")
