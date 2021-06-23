@@ -5,7 +5,8 @@ Setup uppy companion server to upload media directly to AWS s3 bucket.
 - Do, yarn 
 - Setup aws & google tokens. Create `.env`  file and page below code.
   
-```AWS_SECRETE=oDuIoU0RHfZ+jmlNRJ5ooBfIM0w5FlTGtYstiohq
+```
+AWS_SECRETE=""
 AWS_KEY=""
 AWS_S3_BUCKET_NAME=""
 GOOGLE_DRIVE_KEY: ""
